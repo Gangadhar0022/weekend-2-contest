@@ -1,0 +1,137 @@
+.side{
+    align-content: space-between;
+    height: 671px;
+width: 333px;
+left: 21px;
+top: 19px;
+border-radius: 50px;
+ background: #262626;  
+ position: fixed 
+ 
+}
+
+p{
+    rgba(255, 255, 255, 0.5)
+}
+
+
+
+.leftup{
+    position:fixed
+   padding: 10px;    
+    align-items: center;
+    height: 342px;
+width: 1140px;
+left: 374px;
+top: 19px;
+border-radius: 50px;
+position:absolute;
+border-radius: 50px;
+background: #262626;
+color: rgba(255, 255, 255, 0.5);
+}
+
+.leftup1{
+    margin-left: 20px;
+    padding-right: 10px;
+    width: 472px;
+    height: 430px;
+}
+
+.leftup2{
+    position: fixed;
+    height: 430px;
+    width: 720px;
+    
+}
+
+#pic{
+    margin: -28rem 0.5rem 0rem 32rem;
+    width: 36rem;
+    height: 15rem;
+}
+
+#img2{
+    width: 36rem;
+    height: 15rem;
+    border-radius: 20px;
+}
+
+
+.leftdown{
+    position:relative;
+
+color: #FFFFFF
+50%;
+height: 309px;
+width: 1140px;
+left: 362px;
+bottom: -360px;
+border-radius: 50px;
+background: #262626;   
+}
+
+
+.boxes{
+    margin-top: -1rem;
+    margin-left: 2rem;
+    border: 2px solid grey;
+    border-radius: 30px;
+    width: 67rem;
+    height: 13rem;
+    
+}
+table{
+    color: grey;
+    width:100%;
+    height:100%;
+border-collapse:collapse
+}
+
+
+.image{
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+
+.heading{
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+.btn{
+    width:17rem;
+    height:3rem;
+  
+    background-color: #111111;
+    color:rgba(255, 255, 255, 0.5);
+    border-radius:30px;
+    margin-top: 1rem;
+    margin-right:1rem;
+}
+#billion{
+    color: grey;
+}
+
+th{
+   
+   
+    height: 3rem;
+    border-bottom:2px solid grey;
+    border-right:2px solid grey;
+
+}
+td{ 
+    
+    border-right:2px solid grey;
+    
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+td:last-child,th:last-child{
+border-right: none;
+}
